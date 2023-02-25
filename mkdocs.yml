@@ -1,0 +1,16 @@
+site_name: Tasca 4 Dimas
+docs_dir: 'md'
+site_dir: 'docs'
+nav: 
+    - Home: index.md
+    - Tema 1:
+      - Procés: tema1/apartat1.md
+      - Pràctica: tema1/apartat2.md
+      - Exercicis: tema1/apartat3.md
+    - Tema 2:
+      - Materials: tema2/apartat1.md
+      - Propietats: tema2/apartat2.md
+      - Metall: tema2/apartat3.md
+      - Fusta: tema2/apartat4.md
+    - About: aboutT4.md
+theme: readthedocs
